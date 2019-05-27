@@ -1,0 +1,1 @@
+print((212 - 32) * 5 / 9) # Convert 212 degrees F to C
