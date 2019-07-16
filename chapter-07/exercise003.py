@@ -1,0 +1,1 @@
+print('tomato'.find('o'))

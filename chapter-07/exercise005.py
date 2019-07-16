@@ -1,0 +1,1 @@
+print('avocado'.find('o','avocado'.find('o')+1))
