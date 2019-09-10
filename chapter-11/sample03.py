@@ -1,0 +1,8 @@
+lows = set([0, 1, 2, 3, 4])
+odds = set([1, 3, 5, 7, 9])
+print(lows - odds) # lows.difference(odds)
+print(lows & odds) # lows.intersection(odds)
+print(lows <= odds) # lows.issubset(odds)
+print(lows >= odds) # lows.issuperset(odds)
+print(lows | odds) # lows.union(odds)
+print(lows ^ odds) # lows.symmetric_difference(odds)
